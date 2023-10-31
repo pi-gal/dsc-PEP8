@@ -208,3 +208,7 @@ PEP 20 -- The Zen of Python:
 ```python
 import this
 ```
+
+```
+This document stated the importance of correct white space use to make code legible and easy to read, especially when collaborating. We also learned how to read a function as a docstring using teh help() command.
+```
